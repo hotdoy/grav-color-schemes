@@ -1,0 +1,35 @@
+name: Pine
+colors:
+    logo-bg: '#313131'
+    logo-link: '#FFFFFF'
+    nav-bg: '#313131'
+    nav-text: '#B7B9BD'
+    nav-link: '#ffffff'
+    nav-selected-bg: '#2a3b3d'
+    nav-selected-link: '#ffffff'
+    nav-hover-bg: '#313131'
+    nav-hover-link: '#ffffff'
+    toolbar-bg: '#ffffff'
+    toolbar-text: '#313131'
+    page-bg: '#F6F6F6'
+    page-text: '#0a5b61'
+    page-link: '#0a5b61'
+    content-bg: '#ffffff'
+    content-text: '#6f7b8a'
+    content-link: '#0a5b61'
+    content-link2: '#DB4437'
+    content-header: '#313131'
+    content-tabs-bg: '#e6e6e6'
+    content-tabs-text: '#808080'
+    button-bg: '#0a5b61'
+    button-text: '#ffffff'
+    notice-bg: '#0a5b61'
+    notice-text: '#ffffff'
+    update-bg: '#0a5b61'
+    update-text: '#ffffff'
+    critical-bg: '#DB4437'
+    critical-text: '#ffffff'
+accents:
+    primary-accent: button
+    secondary-accent: notice
+    tertiary-accent: critical
